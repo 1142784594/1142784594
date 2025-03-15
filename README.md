@@ -1,7 +1,8 @@
 ## Hi there👋, Welcome!
-Hello! My name is Jiajun Li. I am now a current student from University of Edinburgh studying applied mathematics.
+Hello! My name is Jiajun Li. 
 
-
+- 🐥 I am currently a year 4 student from University of Edinburgh studying applied mathematics.
+- 🦄 I have recieved offers from Oxford OMMS, IC AI, UCL CSML, NYU MSDS and Brown MSDS.
 
 <!--
 **1142784594/1142784594** is a ✨ _special_ ✨ repository because its `README!.md` (this file) appears on your GitHub profile.
