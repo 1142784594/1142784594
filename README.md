@@ -1,4 +1,7 @@
-=## Hi there 👋
+## Hi there👋, Welcome!
+Hello! My name is Jiajun Li. I am now a current student from University of Edinburgh studying applied mathematics.
+
+
 
 <!--
 **1142784594/1142784594** is a ✨ _special_ ✨ repository because its `README!.md` (this file) appears on your GitHub profile.
